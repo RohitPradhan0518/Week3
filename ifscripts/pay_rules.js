@@ -10,7 +10,7 @@ if(hoursWorked <= 40){
     pay = payRate * hoursWorked;
 }else{
     standardPay = payRate * 40;
-    overtimeHours = hoursWorked - 40
+    overtimeHours = hoursWorked - 40=
     overtimeRate = payRate * 1.5
     overTimePay = overtimeHours * overtimeRate
     pay = standardPay + overTimePay
